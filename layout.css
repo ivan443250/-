@@ -1,0 +1,48 @@
+div{
+	margin: 10px;
+	border: 1px solid black;
+	font-size: 20px;
+	height: 8%;
+}
+.header{ 
+	background-color: #ccc;
+}
+.sidebar{
+	background-color: #ddd;
+	float: right;
+    width: 30%;
+	height: 80%;
+	margin-top: 0;
+}
+.main{
+	background-color: #eee;
+	height: 80%;
+	width: 67%;
+	overflow: none;
+}
+.footer{ 
+	background-color: #ccc;
+}
+
+.container{
+	width: 280px;
+	height: 95%;
+	margin:15px;
+    padding: 5px;		
+	border: 1px solid #ccc;
+	background-color: blue;
+	color: yellow;
+}
+
+.common{
+	width: 95%;
+	height: 95%;
+	overflow: auto;
+	border-style: none;
+}
+
+.poem{
+	float: left;
+	border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
